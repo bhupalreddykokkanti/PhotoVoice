@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoVoice</string>
+
+    <string name="pick_photos">Pick Photos</string>
+    <string name="add_more">Add More</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
